@@ -1,0 +1,20 @@
+{
+  "name": "array-validations",
+  "version": "1.0.0",
+  "description": "array validations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KiranUppunda/array-validations.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KiranUppunda/array-validations/issues"
+  },
+  "homepage": "https://github.com/KiranUppunda/array-validations#readme"
+}
